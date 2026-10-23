@@ -1,0 +1,7 @@
+Name: Alex Smith
+Education: B.S. in Computer Science (Junior Year)
+Projects:
+- Built a laptop price prediction model using Scikit-Learn and deployed a Streamlit dashboard.
+- Developed a CNN-based image classification app for chest X-rays using TensorFlow/Keras.
+- Created a task manager CRUD application in Django with SQLite.
+Skills: Python, Git, Pandas, Scikit-Learn, TensorFlow, HTML/CSS, SQL.

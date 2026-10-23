@@ -1,0 +1,10 @@
+Role: AI Intern (IIFA Tech)
+Responsibilities:
+- Assist in developing and fine-tuning machine learning and deep learning models (Python, TensorFlow, Scikit-Learn).
+- Clean and preprocess structured and unstructured data.
+- Build interactive data dashboards using Streamlit.
+- Collaborate with the engineering team using Git and GitHub.
+Requirements:
+- Strong foundation in Python programming and OOP.
+- Familiarity with pandas, NumPy, and basic neural networks.
+- Eagerness to learn and strong problem-solving skills.

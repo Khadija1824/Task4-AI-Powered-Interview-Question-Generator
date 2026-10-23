@@ -1,0 +1,22 @@
+{
+  "AI_ML_Intern": {
+    "technical": [
+      "Explain the difference between L1 and L2 regularization.",
+      "How do you handle missing values in a dataset before training a machine learning model?"
+    ],
+    "behavioral": [
+      "Tell me about a time you had to learn a new tool or framework quickly for a project.",
+      "How do you handle conflicting priorities between coursework and a project deadline?"
+    ]
+  },
+  "General_Intern": {
+    "technical": [
+      "What is version control, and why do you use Git?",
+      "Explain the concept of Object-Oriented Programming in your own words."
+    ],
+    "behavioral": [
+      "Describe a situation where you worked effectively as part of a team.",
+      "What is your approach when you get stuck on a difficult technical bug?"
+    ]
+  }
+}
